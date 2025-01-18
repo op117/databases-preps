@@ -1,0 +1,12 @@
+[
+    {"_id": 1, "ingredient_name": "Condensed Milk"},
+    {"_id": 2, "ingredient_name": "Cream Cheese"},
+    {"_id": 3, "ingredient_name": "Lemon Juice"},
+    {"_id": 4, "ingredient_name": "Pie Crust"},
+    {"_id": 5, "ingredient_name": "Cherry Jam"},
+    {"_id": 6, "ingredient_name": "Brussels Sprouts"},
+    {"_id": 7, "ingredient_name": "Sesame Seeds"},
+    {"_id": 8, "ingredient_name": "Pepper"},
+    {"_id": 9, "ingredient_name": "Salt"},
+    {"_id": 10, "ingredient_name": "Olive Oil"}
+]

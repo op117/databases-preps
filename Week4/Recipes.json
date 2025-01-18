@@ -1,0 +1,47 @@
+[
+    {
+        "_id": 1,
+        "recipe_name": "No-Bake Cheesecake",
+        "description": "A simple and delicious no-bake cheesecake.",
+        "categories": [{"category_id": 1, "category_name": "Cake"}],
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_no_bake": true,
+        "cuisine": null,
+        "ingredients": [
+            {"ingredient_id": 1, "ingredient_name": "Condensed Milk", "quantity": "1 can"},
+            {"ingredient_id": 2, "ingredient_name": "Cream Cheese", "quantity": "200g"},
+            {"ingredient_id": 3, "ingredient_name": "Lemon Juice", "quantity": "2 tbsp"},
+            {"ingredient_id": 4, "ingredient_name": "Pie Crust", "quantity": "1"},
+            {"ingredient_id": 5, "ingredient_name": "Cherry Jam", "quantity": "100g"}
+        ],
+        "steps": [
+            {"step_id": 1, "step_order": 1, "step_description": "Mix ingredients together."},
+            {"step_id": 2, "step_order": 2, "step_description": "Pour into crust."},
+            {"step_id": 3, "step_order": 3, "step_description": "Refrigerate until set."}
+        ]
+    },
+    {
+        "_id": 2,
+        "recipe_name": "Roasted Brussels Sprouts",
+        "description": "Healthy and tasty roasted Brussels sprouts.",
+        "categories": [{"category_id": 2, "category_name": "Vegetable"}],
+        "is_vegetarian": false,
+        "is_vegan": true,
+        "is_no_bake": false,
+        "cuisine": null,
+        "ingredients": [
+            {"ingredient_id": 6, "ingredient_name": "Brussels Sprouts", "quantity": "500g"},
+            {"ingredient_id": 7, "ingredient_name": "Lemon Juice", "quantity": "1 tbsp"},
+            {"ingredient_id": 8, "ingredient_name": "Sesame Seeds", "quantity": "1 tbsp"},
+            {"ingredient_id": 9, "ingredient_name": "Pepper", "quantity": "to taste"},
+            {"ingredient_id": 10, "ingredient_name": "Salt", "quantity": "to taste"},
+            {"ingredient_id": 11, "ingredient_name": "Olive Oil", "quantity": "2 tbsp"}
+        ],
+        "steps": [
+            {"step_id": 4, "step_order": 1, "step_description": "Preheat oven to 200°C."},
+            {"step_id": 5, "step_order": 2, "step_description": "Mix Brussels sprouts with oil and seasoning."},
+            {"step_id": 6, "step_order": 3, "step_description": "Roast until crispy."}
+        ]
+    }
+]
